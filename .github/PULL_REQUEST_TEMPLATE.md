@@ -27,3 +27,6 @@ See https://blog.angular.io/stable-angularjs-and-long-term-support-7e077635ee9c 
 
 **Other information**:
 
+angular.js/Cloud_JIRA+Agile_Product changes - Migration Hub - Atlassian Documentation.pdf
+
+veneno.iot
